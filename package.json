@@ -1,0 +1,11 @@
+{
+  "name": "edh_deckbuilder_json_processor",
+  "version": "1.0.0",
+  "description": "File to proccess Scryfall JSON data to a leaner format for use as part of the EDH Deckbuilder API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Hutchison",
+  "license": "ISC"
+}
